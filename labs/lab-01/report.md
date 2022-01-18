@@ -5,6 +5,9 @@
 
 ## Smart Questions
 
+ - If talking about using library, always include version numbers!!
+   - Also please check if theres an update that fixes your issue first
+ - Include a stacktrace / log / somethinggggg please
 
 ## Free Culture
 
