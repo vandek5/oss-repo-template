@@ -6,7 +6,7 @@
 
 **Contributors:** 1 (duplicate author exists)
 
-**Lines:** 276 (not incl. binary files (pdf/pptx))
+**Lines:** 284 (not incl. binary files (pdf/pptx))
 
 
 **First Commit:**
@@ -79,6 +79,8 @@ d69768279382d989eda8f4f7adf9303484afebee
 - dependabot/npm_and_yarn/normalize-url-4.5.1
 - dependabot/npm_and_yarn/path-parse-1.0.7
 - dependabot/npm_and_yarn/electron-11.5.0
+
+![gitstats BOT](https://media.discordapp.net/attachments/936676509022826496/936692285998006272/unknown.png)
 
 ### B7
 **Contributors:** 10
