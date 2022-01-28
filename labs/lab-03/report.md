@@ -108,6 +108,8 @@ f221dbed816f299d6218b20e564251ad7b8eeee2
 - Logs
 - update-test-bins
 
+![b7 gitstats](https://media.discordapp.net/attachments/936676509022826496/936692660691951738/gitstats-B7.png)
+
 ### AutoCalendar
 **Contributors:** 1
 
@@ -122,3 +124,5 @@ e5a518479152d80b740139f449184ae0a3834c65
 
 
 **Branches:** 1 (master)
+
+![autocalendar gitstats](https://media.discordapp.net/attachments/936676509022826496/936692514759532564/unknown.png)
