@@ -30,8 +30,13 @@ Date:   Wed Mar 17 15:55:44 2021 -0400
 **Branches:**
 - master
 
-![gource]()
+**Screenshots**
 
+![gitstats](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-03/gitstats-autopr.png)
+
+![gource](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-03/gource.png)
+
+[Full Gource MP4](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-03/gource.mp4)
 
 ### AutoLogin
 **Contributors:** 1
@@ -46,6 +51,9 @@ d69768279382d989eda8f4f7adf9303484afebee
 
 **Branches:** 1 (master) 
 
+![Gitstats Autologin](https://cdn.discordapp.com/attachments/936676509022826496/936684219386703952/unknown.png)
+
+[Full Gource Video](https://www.youtube.com/watch?v=NH78f21MhcY&feature=youtu.be)
 
 ### B.O.T.
 
