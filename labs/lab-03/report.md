@@ -5,6 +5,7 @@
 ### AutoPR
 
 **Contributors:** 1 (duplicate author exists)
+
 **Lines:** 276 (not incl. binary files (pdf/pptx))
 
 
@@ -40,7 +41,9 @@ Date:   Wed Mar 17 15:55:44 2021 -0400
 
 ### AutoLogin
 **Contributors:** 1
+
 **Number of lines:** 613
+
 **First Commit:** Mon Feb 15 14:46:00 2016
 7cc7a66a7546b06484a5c927d511ae4096da8d98
 
@@ -58,7 +61,9 @@ d69768279382d989eda8f4f7adf9303484afebee
 ### B.O.T.
 
 **Contributors:** 3
+
 **Number of lines:** 2103
+
 **First Commit:**  1/24/20
 596a96e136c6552e58f04e5c1dd625e304b89c93
 
@@ -77,7 +82,9 @@ d69768279382d989eda8f4f7adf9303484afebee
 
 ### B7
 **Contributors:** 10
+
 **Number of lines:** 3861 
+
 **First Commit:**
 ca0926dcb6988f8e2f464510a9e6d547a9cb2848
 
@@ -101,7 +108,9 @@ f221dbed816f299d6218b20e564251ad7b8eeee2
 
 ### AutoCalendar
 **Contributors:** 1
+
 **Number of lines:** 12281
+
 **First Commit:** Jan 21st 2019 commit
 e5a518479152d80b740139f449184ae0a3834c65
 
