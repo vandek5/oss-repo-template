@@ -48,4 +48,14 @@
 
 ---
 
+## Part 2
+
+- [My Makefile](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/Makefile)
+- [My CMakeLists.txt](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/CMakeLists.txt)
+- [CMake Makefile (static)](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/cmake-static-makefile)
+- [CMake Makefile (shared)](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/cmake-dynamic-makefile)
+- [File Sizes](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/file_sizes.jpg)
+- [Running program (Static)](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/program_static.jpg)
+- [Running program (dynamic)](https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-05/part2/program_dynamic.jpg)
+
 
