@@ -56,33 +56,34 @@ def generate_graph(words):
     return G
 
 
-def words_graph():
+def words_graph(file):
     """Return the words example graph from the Stanford GraphBase"""
-    fh = gzip.open('words_dat.txt.gz', 'r')
+    fh = gzip.open(file, 'r')
     words = set()
+    count = 0
     for line in fh.readlines():
         line = line.decode()
         if line.startswith('*'):
             continue
-        w = str(line[0:5])
+        w = str(line[0:4])
+        count += 1
         words.add(w)
-    return generate_graph(words)
+    return (generate_graph(words), count)
 
 
 if __name__ == '__main__':
-    G = words_graph()
-    print("Loaded words_dat.txt containing 5757 five-letter English words.")
+    (G, count) = words_graph('words4_dat.txt.gz')
+    print("Loaded words_dat.txt containing %d %s-letter English words." % (count, 'four'))
     print("Two words are connected if they differ in one letter.")
     print("Graph has %d nodes with %d edges"
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
 
-    for (source, target) in [('chaos', 'order'),
-                             ('plots', 'graph'),
-                             ('moron', 'smart'),
-                             ('flies', 'swims'),
-                             ('mango', 'peach'),
-                             ('pound', 'marks')]:
+    for (source, target) in [('cold', 'warm'),
+                             ('love', 'hate'),
+                             ('good', 'evil'),
+                             ('pear', 'beef'),
+                             ('make', 'take'),]:
         print("Shortest path between %s and %s is" % (source, target))
         try:
             sp = nx.shortest_path(G, source, target)
