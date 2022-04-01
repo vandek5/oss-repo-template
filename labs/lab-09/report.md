@@ -1,0 +1,27 @@
+# Lab 09
+
+## Checkpoint 1
+
+![01-couchdb-init.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/01-couchdb-init.jpg)
+![02-fauxton-setup.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/02-fauxton-setup.jpg)
+![03-db-create.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/03-db-create.jpg)
+![04-db-create2.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/04-db-create2.jpg)
+![05-fauxton.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/05-fauxton.jpg)
+![06-verify-install.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/06-verify-install.jpg)
+![07-doc-create.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/07-doc-create.jpg)
+![08-mango1.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/08-mango1.jpg)
+![09-mango2.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/09-mango2.jpg)
+![10-replicator.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/10-replicator.jpg)
+![11-replicator2.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/11-replicator2.jpg)
+![12-api-basic.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/12-api-basic.jpg)
+![13-api-delete.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/13-api-delete.jpg)
+![14-api-create-doc.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/14-api-create-doc.jpg)
+![15-api-get-doc.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/15-api-get-doc.jpg)
+![16-api-update-doc.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/16-api-update-doc.jpg)
+![17-api-etag.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/17-api-etag.jpg)
+![18-doc-attach.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/18-doc-attach.jpg)
+![19-attach-get.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/19-attach-get.jpg)
+![20-api-replicate.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/20-api-replicate.jpg)
+![21-api-query.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/21-api-query.jpg)
+![22-query-no-index.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/22-query-no-index.jpg)
+![23-query-now-with-index.jpg](https://raw.githubusercontent.com/vandek5/oss-repo-template/master/labs/lab-09/23-query-now-with-index.jpg)
