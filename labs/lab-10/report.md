@@ -14,7 +14,7 @@
 
 ### Images
 | Original | Processed |
-----------------------
+|----------|-----------|
 |[Bag](bag.jpg)|[Bag Processed](proc-img/bag.jpg)|
 |[Shirt](shirt.jpg)|[Shirt Processed](proc-img/shirt.jpg)|
 |[Trousers](trousers.jpg)|[Trousers Processed](proc-img/trousers.jpg)|
